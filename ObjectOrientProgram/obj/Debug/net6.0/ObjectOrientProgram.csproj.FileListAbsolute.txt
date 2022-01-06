@@ -1,0 +1,5 @@
+D:\downloads\abc\C# Day11-12 assignment\ObjectOrientProgram\ObjectOrientProgram\obj\Debug\net6.0\ObjectOrientProgram.csproj.AssemblyReference.cache
+D:\downloads\abc\C# Day11-12 assignment\ObjectOrientProgram\ObjectOrientProgram\obj\Debug\net6.0\ObjectOrientProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\C# Day11-12 assignment\ObjectOrientProgram\ObjectOrientProgram\obj\Debug\net6.0\ObjectOrientProgram.AssemblyInfoInputs.cache
+D:\downloads\abc\C# Day11-12 assignment\ObjectOrientProgram\ObjectOrientProgram\obj\Debug\net6.0\ObjectOrientProgram.AssemblyInfo.cs
+D:\downloads\abc\C# Day11-12 assignment\ObjectOrientProgram\ObjectOrientProgram\obj\Debug\net6.0\ObjectOrientProgram.csproj.CoreCompileInputs.cache
